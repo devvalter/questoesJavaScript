@@ -1,8 +1,8 @@
-var number, i = 0
+var N, i = 0
 
-number = parseInt(prompt("Digite um número: "))
+N = parseInt(prompt("Digite um número: "))
 
-while (i <= number) {
+while (i <= N) {
 
     console.log(i, "<br>")
 
