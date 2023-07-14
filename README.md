@@ -14,3 +14,5 @@ conforme os dados a seguir: Plano A - Aumento 10%, Plano B - Aumento 20%, Plano 
 3) Elabore um algoritmo para mostrar os números inteiros entre 50 e 170. 
 
 4) Elabore um algoritmo que pede para o usuário digitar (usar o prompt) um número inteiro positivo e salve-o na variável N, depois mostre na tela os números de 0 até N. (Exemplo: caso o usuário tenha digitado 12, então, aparecerá na tela os números 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11 e 12).
+
+5) Elabore um algoritmo para mostrar os números ímpares de 5 até 26. OBS.: incremente de 1 em 1. Dica: Use um comando IF dentro de um WHILE para achar os números ímpares.
